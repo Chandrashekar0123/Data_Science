@@ -13,8 +13,8 @@ This repository contains a collection of **Data Science** projects that demonstr
 - [Bank Marketing Predictions](#bank-marketing-predictions)
 - [Titanic Dataset Analysis](#titanic-dataset-analysis)
 - [Installation](#installation)
+- [Contributing](#contributing)
 - [Usage](#usage)
-- [Connect with me](#Connect with me)
 - [Acknowledgements](#acknowledgements)
 - [About](#about)
 
@@ -142,27 +142,36 @@ bash
 Copy
 Edit
 python bank_marketing_predictions.py
-Contributing
+
+
+## Contributing
+
 Feel free to fork this repository, submit pull requests, or open issues with suggestions for improvements. Your contributions are welcome!
 
-##Connect with me:
 
-[GitHub Profile](https://github.com/Chandrashekar0123)
-[LinkedIn Profile](https://www.linkedin.com/in/k-chandra-shekar-reddy-344793287/) 
+## Connect with me:
 
-##Acknowledgements
-Special Thanks:
-A special thank you to Skill Craft Technology for providing the opportunity to work on these projects during my internship. The experience has been invaluable.
+- [GitHub Profile](https://github.com/Chandrashekar0123)
+- [LinkedIn Profile](https://www.linkedin.com/in/k-chandra-shekar-reddy-344793287/)
 
-Data Sources:
+---
 
-Kaggle 
-UCI 
+## Acknowledgements
 
-Libraries Used:
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks.
+### Special Thanks:
+A special thank you to **Skill Craft Technology** for providing the opportunity to work on these projects during my internship. The experience has been invaluable.
 
-##About
-This repository contains a variety of Data Science projects, including demographic analysis, machine learning models for predictions, and visualizations of real-world datasets. Developed during my internship at Skill Craft Technology, these projects represent my efforts to apply data science techniques and machine learning algorithms to solve practical problems.
+### Data Sources:
+- **Kaggle**  
+- **UCI**
 
-Happy Learning, Exploring, and Coding!
+### Libraries Used:
+- Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks.
+
+---
+
+## About
+This repository contains a variety of **Data Science** projects, including demographic analysis, machine learning models for predictions, and visualizations of real-world datasets. Developed during my internship at **Skill Craft Technology**, these projects represent my efforts to apply **data science techniques** and **machine learning algorithms** to solve practical problems.
+
+**Happy Learning, Exploring, and Coding!**
+
