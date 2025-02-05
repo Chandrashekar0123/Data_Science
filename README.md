@@ -12,6 +12,7 @@ This repository contains a collection of **Data Science** projects that demonstr
 - [Titanic Survival Prediction](#titanic-survival-prediction)
 - [Bank Marketing Predictions](#bank-marketing-predictions)
 - [Titanic Dataset Analysis](#titanic-dataset-analysis)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
