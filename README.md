@@ -1,8 +1,7 @@
 
 # Data Science Projects Repository
 
-This repository contains a collection of **Data Science** projects that demonstrate various data analysis and machine learning techniques applied to real-world datasets. These projects explore a wide range of topics such as demographic data analysis, population visualization, Titanic survival prediction, and marketing predictions. Each project includes detailed analysis, feature engineering, model building, and evaluation. A special thanks to **Skill Craft Technology** for providing me the opportunity to work on these projects during my internship.
-
+This repository contains a collection of **Data Science** projects that demonstrate various data analysis and machine learning techniques applied to real-world datasets. These projects explore a wide range of topics such as demographic data analysis, population visualization, Titanic survival prediction, and marketing predictions. Each project includes detailed analysis, feature engineering, model building, and evaluation.
 ---
 
 ## Table of Contents
@@ -15,7 +14,6 @@ This repository contains a collection of **Data Science** projects that demonstr
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [Usage](#usage)
-- [Acknowledgements](#acknowledgements)
 - [About](#about)
 
 ---
@@ -156,10 +154,6 @@ Feel free to fork this repository, submit pull requests, or open issues with sug
 
 ---
 
-## Acknowledgements
-
-### Special Thanks:
-A special thank you to **Skill Craft Technology** for providing the opportunity to work on these projects during my internship. The experience has been invaluable.
 
 ### Data Sources:
 - **Kaggle**  
@@ -171,7 +165,7 @@ A special thank you to **Skill Craft Technology** for providing the opportunity 
 ---
 
 ## About
-This repository contains a variety of **Data Science** projects, including demographic analysis, machine learning models for predictions, and visualizations of real-world datasets. Developed during my internship at **Skill Craft Technology**, these projects represent my efforts to apply **data science techniques** and **machine learning algorithms** to solve practical problems.
+This repository contains a variety of **Data Science** projects, including demographic analysis, machine learning models for predictions, and visualizations of real-world datasets. These projects represent my efforts to apply **data science techniques** and **machine learning algorithms** to solve practical problems.
 
 **Happy Learning, Exploring, and Coding!**
 
