@@ -103,8 +103,8 @@ To run these projects locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Chandrashekar0123/SCT_DS_.git
-   cd SCT_DS_
+   git clone https://github.com/Chandrashekar0123/Data_Sciencegit
+   cd Data_Science
 Install Dependencies:
 
 Install the necessary Python packages:
